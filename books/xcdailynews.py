@@ -14,7 +14,7 @@ def getBook():
 class tech(BaseFeedBook):
     title                 = u'席成日报'
     __author__            = 'calibre'
-    description           = u'每日新闻、小说更新、英语学习！'
+    description           = u'每日新闻、小说更新、英语学习'
     language              = 'zh-cn'
     feed_encoding         = "utf-8"
     page_encoding         = "utf-8"
@@ -29,7 +29,6 @@ class tech(BaseFeedBook):
             (u'腾讯大家', 'http://hanhanone.sinaapp.com/feed/dajia'),
             (u'喷嚏图卦', 'http://www.pentitugua.com/rss.xml'),
             (u'BBC中文网', 'http://www.bbc.co.uk/zhongwen/simp/index.xml'),
-            (u'36氪', 'http://36kr.com/feed'),
             (u'知乎日报', 'http://zhihurss.miantiao.me/dailyrss'),
             (u'雪中悍刀行', 'http://www.8shuw.com/BookReader/8-8001.xml', True),
             (u'One一个', 'http://onehd.herokuapp.com/', True),
