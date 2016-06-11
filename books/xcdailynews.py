@@ -31,7 +31,6 @@ class tech(BaseFeedBook):
             (u'BBC中文网', 'http://www.bbc.co.uk/zhongwen/simp/index.xml'),
             (u'36氪', 'http://36kr.com/feed'),
             (u'知乎日报', 'http://zhihurss.miantiao.me/dailyrss'),
-            (u'完美世界', 'http://www.8shuw.com/BookReader/15-15796.xml', True),
             (u'雪中悍刀行', 'http://www.8shuw.com/BookReader/8-8001.xml', True),
             (u'One一个', 'http://onehd.herokuapp.com/', True),
             (u'沪江英语', 'http://www.hjenglish.com/new/rss/'),
