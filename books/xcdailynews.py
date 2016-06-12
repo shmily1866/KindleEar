@@ -27,9 +27,10 @@ class tech(BaseFeedBook):
 
     feeds = [
             (u'腾讯大家', 'http://hanhanone.sinaapp.com/feed/dajia'),
-            (u'喷嚏图卦', 'http://www.pentitugua.com/rss.xml'),
+            (u'喷嚏图卦', 'http://tugua.daoapp.io/rss.xml', True),
             (u'BBC中文网', 'http://www.bbc.co.uk/zhongwen/simp/index.xml'),
             (u'知乎日报', 'http://zhihurss.miantiao.me/dailyrss'),
+            (u'36氪', 'http://36kr.com/feed', True),
             (u'雪中悍刀行', 'http://www.8shuw.com/BookReader/8-8001.xml', True),
             (u'One一个', 'http://onehd.herokuapp.com/', True),
             (u'沪江英语', 'http://www.hjenglish.com/new/rss/'),
