@@ -14,7 +14,7 @@ def getBook():
 class tech(BaseFeedBook):
     title                 = u'席成日报'
     __author__            = 'calibre'
-    description           = u'每日新闻、小说更新、英语学习'
+    description           = u'每日新闻、英语学习'
     language              = 'zh-cn'
     feed_encoding         = "utf-8"
     page_encoding         = "utf-8"
