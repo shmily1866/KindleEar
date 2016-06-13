@@ -20,8 +20,8 @@ class tech(BaseFeedBook):
     page_encoding         = "utf-8"
     mastheadfile          = "mh_xcnews.gif"
     coverfile             = "cv_xcnews.jpg"
-    network_timeout       = 60
-    oldest_article        = 2
+    network_timeout       = 90
+    oldest_article        = 1
     max_articles_per_feed = 15
     deliver_days          = []
 
